@@ -1,7 +1,7 @@
 import { createApp } from "vue";
 import "./style.css";
 import App from "./App.vue";
-import router from "../../VueQuizApp/src/router";
+import router from "../../VueQuiz/src/router";
 
 const app = createApp(App);
 app.use(router);

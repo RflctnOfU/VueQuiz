@@ -32,3 +32,5 @@ let questions = [
     answer: "console.log",
   },
 ];
+
+export default questions;
